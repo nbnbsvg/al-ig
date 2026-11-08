@@ -13,5 +13,6 @@ Moods: calm, warm, light, deep. Command: `python3 make_music.py <out.wav> <mood>
 | warm | `python3 make_music.py warm.wav warm 202 23` | reel-3/system-reel-music.mp4 |
 | light | `python3 make_music.py light.wav light 303 23` | sample only (samples/sample_3_light.mp3) |
 | deep | `python3 make_music.py deep.wav deep 404 23` | sample only (samples/sample_4_deep.mp3) |
+| calm | `python3 make_music.py calm505.wav calm 505 23.5` | reel-4/alimony-reel-music.mp4 |
 
 New tracks: pick a new mood/seed pair so each video gets its own piece.
